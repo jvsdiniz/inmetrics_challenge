@@ -8,6 +8,11 @@
 - Frameworks e ferramentas para testes: Selenium | Cypress | Appium | BrowserStack | Postman | JMeter
 - Ferramentas de fluxo de trabalho: Jira | Azure DevOps | Confluence | Bitbucket | Kibana | K9S
 
+## Documento com os casos de teste 📄
+
+- No link abaixo você encontra um documento com os casos de teste descritos em Gherkin
+https://docs.google.com/document/d/1gVHKVpFzjL9-MjMU9goN-cnCEwE2UHwFVcPQRkfj1iY/edit?usp=sharing
+
 ## Tecnologias usadas 🔧
 - Cypress | Versão 13.14.1
 - Cucumber | Versão 4.3.1
