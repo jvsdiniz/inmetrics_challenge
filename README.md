@@ -10,7 +10,7 @@
 
 ## Documento com os testes manuais 📄
 
-- No link abaixo você encontra um documento com os testes manuais propostos no desáfio
+- No link abaixo você encontra um documento com os testes manuais propostos no desafio
 https://docs.google.com/document/d/1gVHKVpFzjL9-MjMU9goN-cnCEwE2UHwFVcPQRkfj1iY/edit?usp=sharing
 
 ## Tecnologias usadas 🔧
