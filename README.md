@@ -28,3 +28,6 @@ https://docs.google.com/document/d/1gVHKVpFzjL9-MjMU9goN-cnCEwE2UHwFVcPQRkfj1iY/
 
 ### Execução dos testes 📝
 - Executar no terminal o comando`npx cypress open` para abrir o menu do cypress e selecionar a feature desejada ou `npx cypress run` para executar todos os testes disponíveis
+
+### CI/CD ✅
+- Nesse caso foi utilizado o Github Actions, mas também tenho proeficiência com o Bitbucket e o Azure Pipelines
