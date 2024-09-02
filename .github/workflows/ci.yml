@@ -11,7 +11,7 @@ on:
 jobs:
   cypress-run:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -31,5 +31,5 @@ jobs:
         run: npx cypress verify
 
       - name: Run Cypress tests
-        run: npm test
+        run: npx cypress run
 
