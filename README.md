@@ -8,9 +8,9 @@
 - Frameworks e ferramentas para testes: Selenium | Cypress | Appium | BrowserStack | Postman | JMeter
 - Ferramentas de fluxo de trabalho: Jira | Azure DevOps | Confluence | Bitbucket | Kibana | K9S
 
-## Documento com os casos de teste 📄
+## Documento com os testes manuais 📄
 
-- No link abaixo você encontra um documento com os casos de teste descritos em Gherkin
+- No link abaixo você encontra um documento com os testes manuais propostos no desáfio
 https://docs.google.com/document/d/1gVHKVpFzjL9-MjMU9goN-cnCEwE2UHwFVcPQRkfj1iY/edit?usp=sharing
 
 ## Tecnologias usadas 🔧
