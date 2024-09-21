@@ -1,4 +1,4 @@
-# Desafio Técnico INmetrics 💛
+# Desafio Técnico INmetrics 💛 - Contratado 🎉
 
 ## Informações do candidato 🧑‍💼
 - Nome: João Vitor Santos Diniz
